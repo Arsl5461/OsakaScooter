@@ -1,0 +1,44 @@
+.row-text{
+    display: flex;
+    justify-content: center;
+    
+}
+.text-Container{
+    padding: 20px;
+}
+.para-graph{
+    transform: translatey(30px);
+    transition: transform 0.4s;
+    
+}
+.para-graph:hover{
+    transform: translatey(0px);
+}
+.para-graph p{
+    line-height: 1.5; 
+    word-spacing: 3px;
+}
+/* Text.css */
+/* ... Previous CSS styles ... */
+
+.scrollable-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 15px;
+    max-height: 100vh; 
+    overflow-y: auto; 
+  }
+  
+  .scrollable-paragraph:hover {
+    color: #ff6600;
+  }
+  .usss123{
+    
+    background-color: gainsboro;
+    border-radius: 150px;
+    padding: 20px;
+    width: 90%;
+    margin: 150px auto;
+    
+  }

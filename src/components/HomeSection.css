@@ -1,0 +1,28 @@
+.container .row{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.btn-2{
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.ushaq-11{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.detailsClip{
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: center;
+}
+
+  

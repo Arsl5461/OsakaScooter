@@ -1,0 +1,33 @@
+.footer-parent{
+    padding: 30px;
+    margin-left: 15%;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+    font-size: 2rem;
+}
+.icons i:hover{
+    opacity: 0.2;
+}
+
+.About-section p:hover{
+opacity: 0.2;
+}
+.about h4{
+    font-weight: bold;
+   
+}
+.privacy{
+    display: flex;
+    gap: 15px;
+    padding: 30px;
+}
+.privacy p:hover{
+    opacity: 0.2;
+    }
+
+.reserved{
+    display: flex;
+    justify-content: end;
+}
